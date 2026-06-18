@@ -1,0 +1,13 @@
+__pycache__/
+.idea/
+*.pyc
+.DS_Store
+graphs/
+*.png
+*.pdf
+*.zip
+private_test_data.csv
+train_data.csv
+test_data.csv
+valid_data.csv
+train_sparse.npz

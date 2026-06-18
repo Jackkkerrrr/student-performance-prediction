@@ -1,4 +1,3 @@
-# student-performance-prediction
 # Student Performance Prediction
 
 This project explores several machine learning methods for predicting student performance on educational assessment data.
